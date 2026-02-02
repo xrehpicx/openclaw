@@ -8,6 +8,7 @@ Docs: https://docs.openclaw.ai
 
 - Telegram: add download timeouts for file fetches. (#6914) Thanks @hclsys.
 - Telegram: enforce thread specs for DM vs forum sends. (#6833) Thanks @obviyus.
+- Agents: fix `createSystemPromptOverride` return type regression from #6639.
  
 ## 2026.2.1
 
